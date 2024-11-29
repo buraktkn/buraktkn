@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Tekin</h1>
 <h3 align="center">A software developer from Istanbul/Turkey</h3>
 
-<h3 align="center">📫 How to reach me burak.tekin@std.medipol.edu.tr</h3>
+<h3 align="center">📫 How to reach me <a href="mailto:burak.tekin@std.medipol.edu.tr" >burak.tekin@std.medipol.edu.tr</a></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+<hr/>
 <div align="center">
 <img src="https://profile-counter.deno.dev/buraktkn/count.svg" alt="Key:: Visitor's Count" />
 </div>
